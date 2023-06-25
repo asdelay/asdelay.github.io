@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/asdelay.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/asdelay.github.io/static/js/main.cc0fa53e.js",
+    "index.html": "/asdelay.github.io/index.html",
+    "main.e6c13ad2.css.map": "/asdelay.github.io/static/css/main.e6c13ad2.css.map",
+    "main.cc0fa53e.js.map": "/asdelay.github.io/static/js/main.cc0fa53e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cc0fa53e.js"
+  ]
+}
