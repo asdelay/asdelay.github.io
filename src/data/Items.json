@@ -1,0 +1,202 @@
+{
+  "name": "dota 2 items",
+  "patch": "7.33d",
+  "items": [
+    {
+      "itemName": "Gleipnir",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5d/Gleipnir_icon.png",
+      "stats": {
+        "Damage": 30,
+        "Intelligence": 24,
+        "Strength": 14,
+        "Agility": 14
+      },
+      "price": 6150
+    },
+    {
+      "itemName": "Manta Style",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Manta_Style_icon.png",
+      "stats": {
+        "Intelligence": 10,
+        "Strength": 10,
+        "Agility": 26,
+        "Attack Speed": 12,
+        "Move Speed": "+10%"
+      },
+      "price": 4600
+    },
+    {
+      "itemName": "Dragon Lance",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/db/Dragon_Lance_icon.png",
+      "stats": {
+        "Strength": 10,
+        "Agility": 15,
+        "Attack Range (range heroes only)": 150
+      },
+      "price": 1900
+    },
+    {
+      "itemName": "Hurricane Pike",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Hurricane_Pike_icon.png",
+      "stats": {
+        "Intelligence": 15,
+        "Strength": 15,
+        "Agility": 20,
+        "Health points": 200,
+        "Range of attack (range heroes only)": 150
+      },
+      "price": 4450
+    },
+    {
+      "itemName": "Witch Blade",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Witch_Blade_icon.png",
+      "stats": {
+        "Intelligence": 12,
+        "Armor": 6,
+        "Attack speed": 35,
+        "Projectile Speed": 300
+      },
+      "price": 2600
+    },
+    {
+      "itemName": "Rod of Atos",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/66/Rod_of_Atos_icon.png",
+      "stats": {
+        "Intelligence": 24,
+        "Strength": 12,
+        "Agility": 12
+      },
+      "price": 2750
+    },
+    {
+      "itemName": "Orchid Malevolence",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Orchid_Malevolence_icon.png",
+      "stats": {
+        "Intelligence": 12,
+        "Health Regeneration": 6,
+        "Mana Regeneration": 2,
+        "Damage": 10,
+        "Attack speed": 40
+      },
+      "price": 3475
+    },
+    {
+      "itemName": "Scythe of Vyse",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Scythe_of_Vyse_icon.png",
+      "stats": {
+        "Strength": 10,
+        "Agility": 10,
+        "Intelligence": 35,
+        "Mana Regeneration": 8.5
+      },
+      "price": 5500
+    },
+    {
+      "itemName": "Aghanim's Scepter",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Aghanim%27s_Scepter_icon.png",
+      "stats": {
+        "Strength": 10,
+        "Agility": 10,
+        "Health": 175,
+        "Mana": 175
+      },
+      "price": 4200
+    },
+    {
+      "itemName": "Linken's Sphere",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Linken%27s_Sphere_icon.png",
+      "stats": {
+        "Strength": 16,
+        "Agility": 16,
+        "Intelligence": 16,
+        "Health Regeneration": 6,
+        "Mana Regeneration": 4.25,
+        "Damage": 10
+      },
+      "price": 4600
+    },
+    {
+      "itemName": "Butterfly",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Butterfly_icon.png",
+      "stats": {
+        "Agility": 35,
+        "Evasion": "35%",
+        "Damage": 25,
+        "Attack speed": 30
+      },
+      "price": 4975
+    },
+    {
+      "itemName": "Bloodthorn",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f4/Bloodthorn_icon.png",
+      "stats": {
+        "Intelligence": 32,
+        "Health Regeneration": 6.25,
+        "Mana Regeneration": 5,
+        "Magic Resistance": "25%",
+        "Damage": 35,
+        "Attack speed": 60
+      },
+      "price": 6800
+    },
+    {
+      "itemName": "Sange and Yasha",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Sange_and_Yasha_icon.png",
+      "stats": {
+        "Strength": 16,
+        "Agility": 16,
+        "Status Resistance": "20%",
+        "Move Speed": "12%",
+        "Attack Speed": 12,
+        "Health Regeneration Amp": "22%",
+        "Lifesteal Amp": "22%"
+      },
+      "price": 4100
+    },
+    {
+      "itemName": "Eye of Skadi",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Eye_of_Skadi_icon.png",
+      "stats": {
+        "Strength": 22,
+        "Agility": 22,
+        "Intelligence": 22,
+        "Health": 220,
+        "Mana": 220
+      },
+      "price": 5300
+    },
+    {
+      "itemName": "Harpoon",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Harpoon_icon.png",
+      "stats": {
+        "Strength": 20,
+        "Agility": 10,
+        "Intelligence": 16,
+        "Mana Regeneration": 2,
+        "Damage": 15,
+        "Attack Speed": 10
+      },
+      "price": 4500
+    },
+    {
+      "itemName": "Echo Sabre",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Echo_Sabre_icon.png",
+      "stats": {
+        "Strength": 13,
+        "Intelligence": 10,
+        "Mana Regeneration": 1.75,
+        "Damage": 15,
+        "Attack Speed": 10
+      },
+      "price": 2500
+    },
+    {
+      "itemName": "Daedalus",
+      "imageSrc": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Daedalus_icon.png",
+      "stats": {
+        "Damage": 88
+      },
+      "price": 5150
+    }
+  ]
+}
